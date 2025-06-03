@@ -1,4 +1,12 @@
-//star pattern
+/* Rectangular star pattern
+
+n=5
+
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *   */
 
 class Main {
    static void pattern1(int N)
